@@ -16,7 +16,7 @@ warnings.filterwarnings('ignore')
 from sklearn import svm
 import json
 
-df = pd.read_csv('C:/Users/xryan/OneDrive/Documents/svm_blog/app_test_svm/diabetes.csv')
+df = pd.read_csv('diabetes.csv')
 
 st.title("Support vector machines")
 
