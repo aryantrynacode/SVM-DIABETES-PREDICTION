@@ -1,4 +1,5 @@
-# SVM-DIABETES-PREDICTION
+# SVM-PREDICTS-DIABETES
+App Link : https://svm-predicts-diabetes.streamlit.app/
 # 🧠 Diabetes Prediction Web App using Support Vector Machine (SVM)
 
 A simple and interactive Streamlit web application to predict whether a person has diabetes using the PIMA Indian Diabetes dataset and the Support Vector Machine (SVM) classification algorithm.
